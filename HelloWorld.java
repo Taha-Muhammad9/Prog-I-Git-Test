@@ -1,5 +1,5 @@
 public class HelloWorld{
 	public static void main(String[] args){
-		System.out.println("Hello World of git!")
+		System.out.println("Hello World of git and github!")
 }
 }
